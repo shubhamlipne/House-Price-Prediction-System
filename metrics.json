@@ -1,0 +1,11 @@
+{
+  "mae": 18222.7,
+  "rmse": 23738.3,
+  "r2_score": 0.9484,
+  "coef_area": 78.975,
+  "coef_rooms": 48861.1989,
+  "intercept": 860.8949,
+  "n_samples": 47,
+  "n_train": 37,
+  "n_test": 10
+}
